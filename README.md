@@ -1,4 +1,5 @@
 ### Vite HTML Boilerplate template - <small>made by codegorrilla</small>
+![Vite-html](images/vite-html.png)
 ***
 
 #### How to make the boilerplate-
