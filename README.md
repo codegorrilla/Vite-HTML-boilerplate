@@ -16,10 +16,28 @@ npm init -y
 ```bash
 npm --save-dev vite
 ```
+OR
+```bash
+npm i vite --save-dev
+```
+
 4. Install Sass compiler
 ```bash
-npm --save-dev sass
+npm --save-dev sass 
 ```
+OR
+```bash
+npm i sass --save-dev
+```
+
+##### Note: In case the above commands doesn't work, particularly in case of installing Vite, do try to install Vite globally with the following commands via opening terminal on macOS. Make sure you're in the root/ in the home folder of your mac.
+
+```bash
+sudo npm i -g vite
+vite --version
+```
+
+
 5. Create a folder src, and inside it create two sub folders as-
 ```bash
 mkdir {src,src/js,src/scss}
